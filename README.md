@@ -80,7 +80,7 @@ Built with cutting-edge technologies including [Firebase](https://firebase.googl
 
 ## License
 
-All code in this repository is distributed under the [MIT License](./LICENSE.txt), granting everyone the freedom to take, modify, and use any part of the code as they see fit.
+All code in this repository is distributed under the [MIT License](./LICENSE), granting everyone the freedom to take, modify, and use any part of the code as they see fit.
 
 ---
 
